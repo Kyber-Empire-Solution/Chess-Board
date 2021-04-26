@@ -5,3 +5,10 @@ D:\GitHubProjects\Chess\Chess\bin\Debug\Chess.exe
 D:\GitHubProjects\Chess\Chess\bin\Debug\Chess.pdb
 D:\GitHubProjects\Chess\Chess\obj\Debug\Chess.exe
 D:\GitHubProjects\Chess\Chess\obj\Debug\Chess.pdb
+D:\GitHubProjects\Chess-Board\Chess\bin\Debug\Chess.exe.config
+D:\GitHubProjects\Chess-Board\Chess\bin\Debug\Chess.exe
+D:\GitHubProjects\Chess-Board\Chess\bin\Debug\Chess.pdb
+D:\GitHubProjects\Chess-Board\Chess\obj\Debug\Chess.csprojAssemblyReference.cache
+D:\GitHubProjects\Chess-Board\Chess\obj\Debug\Chess.csproj.CoreCompileInputs.cache
+D:\GitHubProjects\Chess-Board\Chess\obj\Debug\Chess.exe
+D:\GitHubProjects\Chess-Board\Chess\obj\Debug\Chess.pdb
